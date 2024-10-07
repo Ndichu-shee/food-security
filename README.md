@@ -18,5 +18,4 @@ Supply Chain is a food supply chain management application designed to connect f
 ## Getting Started
 
 ### Prerequisites
-- Docker
 - Docker Compose
