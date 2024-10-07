@@ -9,7 +9,7 @@ Supply Chain is a food supply chain management application designed to connect f
 - Order management (create orders, view order details)
 
 ## Technologies
-- Python 3.x
+- Python 3.9
 - Flask
 - SQLAlchemy
 - PostgreSQL
@@ -20,7 +20,3 @@ Supply Chain is a food supply chain management application designed to connect f
 ### Prerequisites
 - Docker
 - Docker Compose
-
-### Environment Variables
-Create a `.env` file in the root directory of the project and add the following variables:
-
