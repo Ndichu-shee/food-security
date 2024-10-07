@@ -1,0 +1,5 @@
+.env
+venv1/
+pytest_cache/
+KwanzaTukule/venv1
+KwanzaTukule/.env
